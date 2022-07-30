@@ -1,0 +1,23 @@
+VIDEO - me quede por 39:54
+
+virtualenv
+---------------
+
+To create a new virtualenv, run the command `virtualenv <name of the env>`
+To start the virtualenv, run `. <name of the env>\scripts\activate`
+To end the virtualenv, run deactivate
+
+django
+---------------
+
+To create a new project, use the command `django-admin startproject <name of project>
+To create migrations, use the command `python manage.py makemigrations` on the backend folder (where the manage.py file exists)
+To run migrations, use the command `python manage.py migrate` on the backend folder (where the manage.py file exists)
+To create a super admin to access the django dashboard, use the command `python manage.py createsuperuser` on the backend folder (where the manage.py file exists)
+To run the server, use the command `python manage.py runserver` on the backend folder (where the manage.py file exists)
+To create a new app (which i understand are like modules in nest), use the command `python manage.py startapp <name of the app>` on the backend folder (where the manage.py file exists)
+
+vue
+---------------
+To create a new project, use the command `vue create <name of project>`
+To start the vue server, run `npm run serve`

@@ -1,4 +1,4 @@
-VIDEO - me quede por 39:54
+VIDEO - me quede por 1:53:11
 
 virtualenv
 ---------------
